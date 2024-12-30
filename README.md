@@ -1,7 +1,7 @@
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
-This project dives into the world of Uber data analytics using modern data engineering practices on Google Cloud Platform (GCP). We'll leverage tools like Mage.ai for building an ETL pipeline, BigQuery for data warehousing, Looker Studio for data visualization, and Cloud Storage for managing data throughout the process.
+This project leverages modern data engineering principles on Google Cloud Platform (GCP) to perform comprehensive analytics on Uber ride data. We utilize image.ai for data extraction, BigQuery for storage and analysis, and Looker Studio for visualization, creating an end-to-end data pipeline from raw data to actionable insights. The project demonstrates efficient data processing and insightful reporting capabilities within the GCP ecosystem.
 
 ## Architecture
 ![Project Architecture](architecture.jpg)
